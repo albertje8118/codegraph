@@ -4,6 +4,7 @@ description: Add tree-sitter language support to codegraph end-to-end — wire t
 ---
 
 # Add a language to CodeGraph
+#kiww
 
 Wire a new tree-sitter language into codegraph's extraction pipeline, prove it
 extracts real symbols on popular repos, and prove it beats no-codegraph for an
